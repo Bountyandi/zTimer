@@ -1,0 +1,28 @@
+html, body {
+    height: 100%;
+    background-color: skyblue;
+    font-family: 'Lato', Regular;
+    font-size: 250%;
+}
+
+#root {
+    width: 0%;
+    height: 100%;
+    margin: 0 auto;
+    display: table;
+}
+
+.wrapper {
+    display: table-cell;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.style {
+
+}
+
+.settings {
+
+}
+
