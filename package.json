@@ -1,0 +1,22 @@
+{
+  "name": "zTimer",
+  "version": "1.0.0",
+  "description": "zTimer ",
+  "main": "script.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bountyandi/zTimer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bountyandi/zTimer/issues"
+  },
+  "homepage": "https://github.com/Bountyandi/zTimer#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
