@@ -56,7 +56,7 @@ function makeTick() {
 };
 
 function updateTitle(value) {
-  document.title = `${value} - ${TITLE} `;
+  document.title = `${value} - ${TITLE}`;
 }
 
 function getHours() {
